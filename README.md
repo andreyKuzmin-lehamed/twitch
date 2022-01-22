@@ -19,7 +19,7 @@
   *В рамках данной рубрики я прохожу по карте пути голэнг разработчика, с самого нуля по каждой обязательной и опциональной ветке. Карта взята с репозитория [Alikhil/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) и я за неё безумно благодарен*
 
 
-  **GOLANG**
+### GOLANG
 
   - [ ] GO CLI
   - [ ] Variables, Constants, Types, Function, Packages, etc
