@@ -69,7 +69,7 @@
 
 ## DATABASES
 
-  *Relational*
+ ### Relational
   
   - [ ] PostgreSQL
   - [ ] SQL Server
@@ -77,7 +77,7 @@
   - [ ] MariaDB
   - [ ] CockroachDB
 
-  *No Sql*
+ ### No Sql
 
   - [ ] MongoDB
   - [ ] Redis
@@ -85,12 +85,12 @@
   - [ ] RavenDB
   - [ ] CouchDB
 
-  *Cloud databases*
+ ### Cloud databases
 
   - [ ] Azure CosmosDB
   - [ ] Amazon DynamoDB
 
-  *Search Engines*
+ ### Search Engines
 
   - [ ] ElasticSearch
   - [ ] Solr
@@ -100,25 +100,25 @@
 
   - [ ] GCache
 
-  *Distributed Cache*
+ ### Distributed Cache
 
   - [ ] Go-Redis
   - [ ] GoMemache
 
 ## LOGGING
 
-  *Log Frameworks*
+ ### Log Frameworks
 
   - [ ] Zap
   - [ ] ZeroLog
   - [ ] Logrus
 
-  *Log Managment System*
+ ### Log Managment System
 
   - [ ] Sentry.io
   - [ ] loggly.com
 
-  *Distributed Tracing*
+ ### Distributed Tracing
 
   - [ ] Jaeger
 
@@ -129,12 +129,12 @@
 
 ## API-CLIENTS
 
-  *GraphQL*
+  ### GraphQL
 
   - [ ] Gqlgen
   - [ ] Graphql-go
 
-  *REST*
+### REST
 
   - [ ] Gentelman
   - [ ] GRequests
@@ -142,7 +142,7 @@
 
 ## TESTING
 
-### Unit Testing
+  ### Unit Testing
 
   *Mocking*
 
@@ -155,22 +155,64 @@
   - [ ] GoMega
   - [ ] GoCheck
 
-### Behavior Testing
+  ### Behavior Testing
 
   - [ ] GoDog
   - [ ] GoConvey
   - [ ] GinkGo
 
-### Integration Testing
+  ### Integration Testing
 
   - [ ] Testify
   - [ ] GinkGo
   - [ ] Dokertest
 
-### E2E Testing
+  ### E2E Testing
 
   - [ ] Endly 
   - [ ] Selenium
 
-  
+## GOOD TO KNOW LIBRARIES
+
+  - [ ] Validator
+  - [ ] Glow
+  - [ ] GJson
+  - [ ] Authboss
+  - [ ] Go-Underscore
+
+## MICROSERVICES
+
+  ### Rpc
+
+  - [ ] Protocol Buffers
+  - [ ] gRPC-Go
+  - [ ] gRPC-gateway
+  - [ ] twirp 
+
+  ### Message-Broker
+
+  - [ ] RabbitMQ
+  - [ ] Apache Kafka
+  - [ ] ActiveMQ
+  - [ ] Azure Service Bus
+
+  ### Building event-driven
+
+  - [ ] Watermill
+  - [ ] Message-Bus
+
+## TASK SCHEDULING
+
+  - [ ] Gron
+  - [ ] Jobrunner
+
+## GO PATTERNS
+
+  - [ ] Creational
+  - [ ] Structural
+  - [ ] Behavioral
+  - [ ] Synchronization
+  - [ ] Concurrency
+  - [ ] Messaging
+  - [ ] Stability
 
