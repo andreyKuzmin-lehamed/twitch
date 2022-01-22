@@ -9,7 +9,7 @@
 
 # Оглавление:
 
-  - Golang Road Map
+  - [Golang Road Map](https://github.com/andreyKuzmin-lehamed/twitch#golang-road-map)
   - Размышления вслух
   - Подкаст с интересным человеком
   - Проектные группы сообщества
