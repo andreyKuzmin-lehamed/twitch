@@ -1,2 +1,2 @@
 # twitch
-my twitch channel strategy and content plan
+my twitch channel strategy and content plan!
