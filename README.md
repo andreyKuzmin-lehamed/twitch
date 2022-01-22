@@ -14,12 +14,12 @@
   - Подкаст с интересным человеком
   - Проектные группы сообщества
 
-## GOLANG ROAD MAP
+# GOLANG ROAD MAP
 
   *В рамках данной рубрики я прохожу по карте пути голэнг разработчика, с самого нуля по каждой обязательной и опциональной ветке. Карта взята с репозитория [Alikhil/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) и я за неё безумно благодарен*
 
 
-### GOLANG
+## GOLANG
 
   - [ ] GO CLI
   - [ ] Variables, Constants, Types, Function, Packages, etc
@@ -29,17 +29,17 @@
   - [ ] GoRoutine, Channel, Buffer, Select, Mutex
   - [ ] Defer, Error, Panic, Recover
 
-  **GO MODULES**
+## GO MODULES
 
   - [ ] Learn Go dependency management tool
   - [ ] Semantic versioning
   - [ ] Version, scripts, repository and other properties
 
-  **SQL FUNDAMENTALS**
+## SQL FUNDAMENTALS
 
   - [ ] Basic Sql Syntax
 
-  **GENERAL DEVELOPMENT SKILLS**
+## GENERAL DEVELOPMENT SKILLS
 
   - [ ] Git
   - [ ] HTTP/HTTPS
@@ -48,12 +48,12 @@
   - [ ] Basic Authentication, OAuth, JWT, etc
   - [ ] SOLID, YAGNI, KISS, DRY
 
-  **CLI**
+## CLI
 
   - [ ] Cobra
   - [ ] Urfave/cli
 
-  **WEB FRAMEWORKS + ROUTERS**
+## WEB FRAMEWORKS + ROUTERS
 
   - [ ] Echo
   - [ ] Fiber
@@ -62,12 +62,12 @@
   - [ ] Gin
   - [ ] Revel
 
-  **ORMS**
+## ORMS
 
   - [ ] Gorm
   - [ ] Xorm
 
-  **DATABASES**
+## DATABASES
 
   *Relational*
   
@@ -96,7 +96,7 @@
   - [ ] Solr
   - [ ] Sphinx
 
-  **CACHING**
+## CACHING
 
   - [ ] GCache
 
@@ -105,7 +105,7 @@
   - [ ] Go-Redis
   - [ ] GoMemache
 
-  **LOGGING**
+## LOGGING
 
   *Log Frameworks*
 
@@ -122,12 +122,12 @@
 
   - [ ] Jaeger
 
-  **REAL-TIME COMMUNICATION**
+## REAL-TIME COMMUNICATION
 
   - [ ] Melody
   - [ ] Centrifugo
 
-  **API-CLIENTS**
+## API-CLIENTS
 
   *GraphQL*
 
@@ -140,9 +140,9 @@
   - [ ] GRequests
   - [ ] Heimdall
 
-  **TESTING**
+## TESTING
 
-#### Unit Testing*
+### Unit Testing
 
   *Mocking*
 
@@ -155,19 +155,19 @@
   - [ ] GoMega
   - [ ] GoCheck
 
-#### Behavior Testing
+### Behavior Testing
 
   - [ ] GoDog
   - [ ] GoConvey
   - [ ] GinkGo
 
-#### Integration Testing
+### Integration Testing
 
   - [ ] Testify
   - [ ] GinkGo
   - [ ] Dokertest
 
-#### E2E Testing
+### E2E Testing
 
   - [ ] Endly 
   - [ ] Selenium
