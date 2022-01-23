@@ -11,6 +11,6 @@
 
 ### Редко используемые
 
-  - Целочисленные - uint8, int16, uint16, int32, uint32, int64, uint64, int, uint, и uintptr;
+  - Целочисленные - int8, uint8, int16, uint16, int32, uint32, int64, uint64, int, uint, и uintptr;
   - С плавающей точкой - float32;
   - Сложные числовые - complex64и complex128;
