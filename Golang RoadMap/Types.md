@@ -14,3 +14,18 @@
   - Целочисленные - int8, uint8, int16, uint16, int32, uint32, int64, uint64, int, uint, и uintptr;
   - С плавающей точкой - float32;
   - Сложные числовые - complex64и complex128;
+
+### int vs uint
+
+  Если тип начинается с u, тогда он строго положительный. 
+  Например, int8 - это с -128 до 127, а вот unit8 это с 0 до 255.
+  При этом, диапазон значений, сохраняется, и зависит от числа в окончании типа:
+ 
+  - uint8	unsigned 8-bit integer	(0 to 255)
+  - uint16	unsigned 16-bit integer	(0 to 65535)
+  - uint32	unsigned 32-bit integer	(0 to 4294967295)
+  - uint64	unsigned 64-bit integer	(0 to 18446744073709551615)
+  - int8	signed 8-bit integer	(-128 to 127)
+  - int16	signed 16-bit integer	(-32768 to 32767)
+  - int32	signed 32-bit integer	(-2147483648 to 2147483647)
+  - int64	signed 64-bit integer	(-9223372036854775808 to 9223372036854775807)
