@@ -75,3 +75,5 @@
     const STRUCT StructType = StructType{key: value, key2: value} - это литерал присваеваемый в константу
 
     STRUCT - это просто константа, с литералом. (Вот так же false и true)
+
+  А что там в false и true внутри, да кто его знает.
