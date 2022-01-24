@@ -45,7 +45,7 @@
 
   - [ ] GO CLI
   - [ ] Variables, Constants, Types, Function, Packages, etc
-    - [Первое видео по теме типов и переменных](www.twitch.tv/lehamed)
+    - [Типы данных, Указатели, Литералы](https://www.youtube.com/watch?v=ZfX_uNljcBQ&t=440s&ab_channel=HowITWorks)
   - [ ] Array & Slices
   - [ ] Pointers, Structures, Methods
   - [ ] Interface
