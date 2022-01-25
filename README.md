@@ -46,6 +46,7 @@
   - [ ] GO CLI
   - [ ] Variables, Constants, Types, Function, Packages, etc
     - [Типы данных, Указатели, Литералы](https://www.youtube.com/watch?v=ZfX_uNljcBQ&t=440s&ab_channel=HowITWorks)
+    - [Rune, Byte, Нетипизированные константы и внезапный JS](https://youtu.be/66G92lK03Is)
   - [ ] Array & Slices
   - [ ] Pointers, Structures, Methods
   - [ ] Interface
