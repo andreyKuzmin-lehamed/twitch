@@ -27,6 +27,7 @@
   - [x] kirjs (Ссылка будет позже, пока не залил на ютуб)
   - [x] [Лев Кудряшов](https://youtu.be/SecVlfk5xXU)
   - [x] [Глеб Михеев](https://www.youtube.com/watch?v=vjHsVe-hdok&t=3699s&ab_channel=HowITWorks)
+  - [x] [Наталья Масалкова](https://youtu.be/m3V--Vwk0i8)
 
 # Проектные команды сообщества
 
@@ -47,7 +48,6 @@
   - [ ] Variables, Constants, Types, Function, Packages, etc
     - [Типы данных, Указатели, Литералы](https://www.youtube.com/watch?v=ZfX_uNljcBQ&t=440s&ab_channel=HowITWorks)
     - [Rune, Byte, Нетипизированные константы и внезапный JS](https://youtu.be/66G92lK03Is)
-    <!-- - [Ещё немного про нетипизированные переменные и приведение типов](https://youtu.be/m3V--Vwk0i8) -->
   - [ ] Array & Slices
   - [ ] Pointers, Structures, Methods
   - [ ] Interface
