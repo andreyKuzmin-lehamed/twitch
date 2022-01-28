@@ -28,6 +28,7 @@
   - [x] [Лев Кудряшов](https://youtu.be/SecVlfk5xXU)
   - [x] [Глеб Михеев](https://www.youtube.com/watch?v=vjHsVe-hdok&t=3699s&ab_channel=HowITWorks)
   - [x] [Наталья Масалкова](https://youtu.be/m3V--Vwk0i8)
+  - [x] [Антон Комаров](https://youtu.be/Q_Mbwxue5do)
 
 # Проектные команды сообщества
 
