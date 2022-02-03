@@ -64,21 +64,6 @@
      - Предварительные условия;
      - Применение предварительных условий;
      - Цена ошибки или отсутствия предварительных условий;
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
-  - [ ] example
 
 ## GOLANG
 
