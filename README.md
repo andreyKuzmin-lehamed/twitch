@@ -57,14 +57,11 @@
     - [Конструирование VS Кодирование VS Программирование](https://github.com/andreyKuzmin-lehamed/twitch/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%201.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E.md#%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-vs-%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-vs-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5);
     - [Влияние конструирования ПО на качество ПО и качество программиста](https://github.com/andreyKuzmin-lehamed/twitch/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%201.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E.md#%D0%B2%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BD%D0%B0-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-%D0%B8-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0).
   - [ ] Метафоры в разработке ПО // Совершенный код. Глава 2;
-     - Метафора:
-     - Природа метафор;
-     - Применение метафор в разработке ПО;
-     - Сравнение метафор.
+     - [Метафора](https://github.com/andreyKuzmin-lehamed/twitch/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%202.%20%D0%9C%D0%B5%D1%82%D0%B0%D1%84%D0%BE%D1%80%D1%8B.md#%D0%BC%D0%B5%D1%82%D0%B0%D1%84%D0%BE%D1%80%D0%B0):
+     - [Важность метафор](https://github.com/andreyKuzmin-lehamed/twitch/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%202.%20%D0%9C%D0%B5%D1%82%D0%B0%D1%84%D0%BE%D1%80%D1%8B.md#%D0%B2%D0%B0%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BC%D0%B5%D1%82%D0%B0%D1%84%D0%BE%D1%80%D1%8B);
+     - [Применение метафор в разработке ПО](https://github.com/andreyKuzmin-lehamed/twitch/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%202.%20%D0%9C%D0%B5%D1%82%D0%B0%D1%84%D0%BE%D1%80%D1%8B.md#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%B0%D1%84%D0%BE%D1%80-%D0%B2-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D0%BF%D0%BE);
+     - [Метафоры разработки ПО](https://github.com/andreyKuzmin-lehamed/twitch/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%202.%20%D0%9C%D0%B5%D1%82%D0%B0%D1%84%D0%BE%D1%80%D1%8B.md#%D0%BC%D0%B5%D1%82%D0%B0%D1%84%D0%BE%D1%80%D1%8B-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-%D0%BF%D0%BE).
   - [ ] Предварительные условия // Совершенный код. Глава 3;
-     - Предварительные условия;
-     - Применение предварительных условий;
-     - Цена ошибки или отсутствия предварительных условий;
 
 ## GOLANG
 
